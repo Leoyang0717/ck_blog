@@ -3,7 +3,7 @@ module.exports = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   url: 'https://Leoyang0717.github.io',
-  baseUrl: '/',
+  baseUrl: '/ck_blog/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
